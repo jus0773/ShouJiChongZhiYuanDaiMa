@@ -1,0 +1,10 @@
+D:\学习\大一\C# 可视化程序设计\复习题\上机模拟题5-28\手机充值消费\ChongZhi\bin\Debug\ChongZhi.exe.config
+D:\学习\大一\C# 可视化程序设计\卓越项目\手机充值消费系统\手机充值消费源代码\手机充值消费\ChongZhi\bin\Debug\ChongZhi.exe.config
+D:\学习\大一\C# 可视化程序设计\卓越项目\手机充值消费系统\手机充值消费源代码\手机充值消费\ChongZhi\bin\Debug\ChongZhi.exe
+D:\学习\大一\C# 可视化程序设计\卓越项目\手机充值消费系统\手机充值消费源代码\手机充值消费\ChongZhi\bin\Debug\ChongZhi.pdb
+D:\学习\大一\C# 可视化程序设计\卓越项目\手机充值消费系统\手机充值消费源代码\手机充值消费\ChongZhi\obj\Debug\ChongZhi.csprojResolveAssemblyReference.cache
+D:\学习\大一\C# 可视化程序设计\卓越项目\手机充值消费系统\手机充值消费源代码\手机充值消费\ChongZhi\obj\Debug\ChongZhi.Properties.Resources.resources
+D:\学习\大一\C# 可视化程序设计\卓越项目\手机充值消费系统\手机充值消费源代码\手机充值消费\ChongZhi\obj\Debug\ChongZhi.csproj.GenerateResource.Cache
+D:\学习\大一\C# 可视化程序设计\卓越项目\手机充值消费系统\手机充值消费源代码\手机充值消费\ChongZhi\obj\Debug\ChongZhi.exe
+D:\学习\大一\C# 可视化程序设计\卓越项目\手机充值消费系统\手机充值消费源代码\手机充值消费\ChongZhi\obj\Debug\ChongZhi.pdb
+D:\学习\大一\C# 可视化程序设计\卓越项目\手机充值消费系统\手机充值消费源代码\手机充值消费\ChongZhi\obj\Debug\ChongZhi.李俊__权限.DengLu.resources
